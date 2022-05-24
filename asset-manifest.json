@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Innovate_for_Menstrual_Wealth/static/css/main.934693cb.css",
+    "main.js": "/Innovate_for_Menstrual_Wealth/static/js/main.cec877b8.js",
+    "static/js/787.016dd43c.chunk.js": "/Innovate_for_Menstrual_Wealth/static/js/787.016dd43c.chunk.js",
+    "static/media/Bamboo.jpg": "/Innovate_for_Menstrual_Wealth/static/media/Bamboo.1e6d5a3318453724d8d0.jpg",
+    "static/media/Banana.jpg": "/Innovate_for_Menstrual_Wealth/static/media/Banana.8007c526ecdd5cdec360.jpg",
+    "static/media/Coconut.jpg": "/Innovate_for_Menstrual_Wealth/static/media/Coconut.ab997ca4fcae9a3d7a69.jpg",
+    "static/media/Woman.jpg": "/Innovate_for_Menstrual_Wealth/static/media/Woman.01e654391dfdba482fd1.jpg",
+    "static/media/Buy.jpg": "/Innovate_for_Menstrual_Wealth/static/media/Buy.777c9b4d7ee9de072342.jpg",
+    "static/media/Education.jpg": "/Innovate_for_Menstrual_Wealth/static/media/Education.0c4afe6096dd0b2b7354.jpg",
+    "static/media/CLIP.jpg": "/Innovate_for_Menstrual_Wealth/static/media/CLIP.a03a71b955c01219cdcc.jpg",
+    "index.html": "/Innovate_for_Menstrual_Wealth/index.html",
+    "main.934693cb.css.map": "/Innovate_for_Menstrual_Wealth/static/css/main.934693cb.css.map",
+    "main.cec877b8.js.map": "/Innovate_for_Menstrual_Wealth/static/js/main.cec877b8.js.map",
+    "787.016dd43c.chunk.js.map": "/Innovate_for_Menstrual_Wealth/static/js/787.016dd43c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.934693cb.css",
+    "static/js/main.cec877b8.js"
+  ]
+}
